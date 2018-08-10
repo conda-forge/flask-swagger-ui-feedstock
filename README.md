@@ -14,12 +14,15 @@ Summary: Swagger UI blueprint for Flask
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/flask-swagger-ui-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/flask-swagger-ui-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/flask-swagger-ui-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/flask-swagger-ui-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/flask-swagger-ui/badges/version.svg)](https://anaconda.org/conda-forge/flask-swagger-ui)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/flask-swagger-ui/badges/downloads.svg)](https://anaconda.org/conda-forge/flask-swagger-ui)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-flask--swagger--ui-green.svg)](https://anaconda.org/conda-forge/flask-swagger-ui) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/flask-swagger-ui.svg)](https://anaconda.org/conda-forge/flask-swagger-ui) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/flask-swagger-ui.svg)](https://anaconda.org/conda-forge/flask-swagger-ui) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/flask-swagger-ui.svg)](https://anaconda.org/conda-forge/flask-swagger-ui) |
 
 Installing flask-swagger-ui
 ===========================
