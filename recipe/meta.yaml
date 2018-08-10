@@ -1,6 +1,6 @@
 {% set name = "flask-swagger-ui" %}
-{% set version = "3.6.0" %}
-{% set sha256 = "afe84e4721b9b4bdd3efc2f9949a9f990f8e63507aedcf450d00856cf669f005" %}
+{% set version = "3.18.0" %}
+{% set sha256 = "f8c030d87779347a2fe2100f000638588ec53225a42536f8ad322163f82a7e88" %}
 
 package:
   name: {{ name|lower }}
