@@ -1,5 +1,5 @@
 {% set name = "flask-swagger-ui" %}
-{% set version = "5.32.4" %}
+{% set version = "5.32.5" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name | replace('-', '_') }}-{{ version }}.tar.gz
-  sha256: 7808a16ab040e6f2867b6ce285991ff4a904fcbad576b2b17eabaddb136ffb6c
+  sha256: 5785f18a43756b7f04c63fcb6cdd50187a352412df16a3d5a9afd60b7966fb97
 
 build:
   noarch: python
